@@ -1,0 +1,1 @@
+This code was created to Predict Gold price based on data set :https://www.kaggle.com/datasets/sid321axn/gold-price-prediction-dataset    as project to apply Regression models (Linear regression, Gradiant boost, XG Booost , Random forest)
